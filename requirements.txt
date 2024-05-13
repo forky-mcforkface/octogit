@@ -1,5 +1,5 @@
 requests>=1.0
-simplejson==2.3.2
+simplejson==2.6.1
 clint2
 docopt
 nose
